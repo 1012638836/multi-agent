@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="85dba5ae-c9a0-4928-807e-c8dc1ceb3a2a" name="agent_demo">
+        <fileTransfer rootFolder="/www/agent_demo" accessType="SFTP" host="49.232.141.40" port="22" sshConfigId="4ca52554-042d-46dd-8673-de7b7a13f0d7" sshConfig="ubuntu@49.232.141.40:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
